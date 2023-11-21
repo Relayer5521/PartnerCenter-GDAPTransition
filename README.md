@@ -1,3 +1,7 @@
+## Important
+
+  \*\***The GDAP bulk migration tool will be deprecated on November 30, 2023, and Microsoft will not be providing any support for the tool after its deprecation.**\*\*
+
 # Project
 
 > This repo has been populated by an initial template to help get you started. Please
